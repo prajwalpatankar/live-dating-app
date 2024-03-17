@@ -52,8 +52,3 @@ npm start
 cd frontend
 npm start
 ```
-
-## Contact
-Your Name - patankarprajwal@example.com
-
-Project Link: https://github.com/prajwalpatankar/live-dating-app
